@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -16,7 +16,7 @@ body {
 }
 
 div {
-    background-color: black;
+    background-color: rgb(1, 1, 1);
     width: 384px;
     padding: 40px;
     text-align: center;
