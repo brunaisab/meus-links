@@ -66,3 +66,9 @@ div a {
    border-radius: 8px;
    font-weight: 780; 
 }
+
+div a :hover{
+    background-color: chartreuse;
+    color: black;
+    transition: 0.7;
+}
